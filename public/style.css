@@ -1,0 +1,167 @@
+/* 基本設定 */
+:root {
+  --bg-black: #0a0a0a;         /* 深い黒 */
+  --card-gray: #1a1a1a;        /* カードの背景 */
+  --gold-main: #d4af37;        /* 標準的な金 */
+  --gold-bright: #f9f295;      /* 明るい金 */
+  --gold-dark: #b8860b;        /* 暗い金 */
+  --gold-grad: linear-gradient(135deg, #f9f295 0%, #e0aa3e 25%, #d4af37 50%, #b8860b 100%);
+  --text-main: #e0e0e0;
+  --accent-red: #ff3b30;
+}
+
+body {
+  font-family: 'Helvetica Neue', Arial, 'Hiragino Kaku Gothic ProN', 'Hiragino Sans', Meiryo, sans-serif;
+  margin: 0;
+  background-color: var(--bg-black);
+  color: var(--text-main);
+  overflow-x: hidden;
+  display: block; 
+}
+
+/* --- ハンバーガーメニューボタン --- */
+.menu-button {
+  position: fixed; 
+  top: 15px;
+  right: 15px;
+  z-index: 10001;
+  cursor: pointer;
+  width: 35px;
+  height: 35px;
+  background: rgba(0,0,0,0.6);
+  border-radius: 4px;
+  padding: 5px;
+}
+.menu-button span {
+  position: absolute;
+  display: block;
+  left: 7px;
+  width: 21px;
+  height: 2px;
+  background-color: var(--gold-main); /* ボタンを金色に */
+  transition: all 0.5s;
+}
+.menu-button span:nth-child(1){ top: 10px; }
+.menu-button span:nth-child(2){ top: 18px; }
+.menu-button span:nth-child(3){ bottom: 8px; }
+
+/* --- サイドバー --- */
+#sidebar {
+  position: fixed;
+  right: -300px;
+  top: 0;
+  width: 250px;
+  height: 100%;
+  background: #000;
+  color: white;
+  transition: 0.3s;
+  overflow-y: auto;
+  z-index: 10000;
+  padding-top: 60px;
+  border-left: 1px solid var(--gold-dark);
+}
+#sidebar.open { right: 0; }
+
+#region-list strong { 
+    color: var(--gold-main); 
+    display: block; 
+    padding: 12px 10px; 
+    cursor: pointer; 
+    border-bottom: 1px solid #222; 
+    font-size: 16px;
+}
+#region-list strong:hover { background-color: #222; color: var(--gold-bright); }
+
+.pref-label { color: #81d4fa; display: block; padding: 10px 0 10px 15px; cursor: pointer; font-size: 15px; }
+.shop-item { color: #eee; border-left: 2px solid #444; margin: 5px 0 5px 25px; display: none; }
+.shop-item:hover { border-left: 2px solid var(--gold-main); background: #111; }
+
+/* --- メインコンテンツ --- */
+#content { padding: 70px 15px 20px; box-sizing: border-box; }
+
+.page-title { 
+  font-size: 20px; 
+  text-align: center; 
+  margin-bottom: 20px; 
+  background: var(--gold-grad);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
+}
+
+.item {
+  background: var(--card-gray);
+  border: 1px solid #333;
+  padding: 15px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.5);
+  overflow: hidden;
+}
+
+.thumbnail img { 
+  width: 100%; 
+  border-radius: 4px; 
+  border: 1px solid #444;
+}
+
+.gn a { font-size: 18px; font-weight: bold; color: var(--gold-main); text-decoration: none; }
+.actress-name { font-size: 0.8em; color: var(--accent-red); margin-top: 2px; } 
+.age { font-size: 14px; color: #888; }
+.sn { font-size: 13px; color: #bbb; margin-top: 5px; font-weight: bold; }
+
+/* --- リンクボタン --- */
+.btn-main {
+  border: 1px solid var(--gold-dark);
+  color: var(--gold-main);
+  background: #111;
+  transition: 0.3s;
+}
+.btn-main:hover {
+  background: var(--gold-main);
+  color: #000;
+}
+
+/* ドロップダウン内容もダークに */
+.dropdown-content {
+  background-color: #111;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.6);
+  border: 1px solid var(--gold-dark);
+}
+.dropdown-content a { color: #eee; border-bottom: 1px solid #222; }
+.dropdown-content a:hover { background-color: #222; color: var(--gold-bright); }
+
+/* --- 料金表 --- */
+.price-section { 
+  background: #111; 
+  border: 1px solid #333; 
+}
+.price-table th { background: #222; color: var(--gold-main); border: 1px solid #333; }
+.price-table td { border: 1px solid #333; color: #fff; }
+
+/* --- スケジュール --- */
+.schedule { border: 1px solid #333; background: #000; }
+.schedule th { background: #222; color: #888; border: 1px solid #333; }
+.schedule td { background: #111; color: var(--gold-main); border: 1px solid #333; }
+.day th.today { background: #331111; color: var(--accent-red); }
+
+/* --- ランク区切り（高級感アップ） --- */
+.rank-divider {
+  background: var(--gold-grad);
+  color: #000;
+  padding: 8px 20px;
+  font-weight: bold;
+  margin: 30px 0 15px;
+  border-radius: 2px;
+  font-size: 16px;
+  text-align: center;
+  box-shadow: 0 0 15px rgba(212, 175, 55, 0.3);
+  letter-spacing: 4px;
+}
+
+/* スマホ最適化 */
+@media screen and (max-width: 480px) {
+  .thumbnail { width: 90px; }
+  .gn a { font-size: 17px; }
+  .price-table th, .price-table td { font-size: 10px; }
+}
