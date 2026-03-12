@@ -56,6 +56,44 @@
   },
 
 
+  "--- B_SECTION ---": "--------------------------------",
+
+  "bella": {
+    "name": "Bella【ベラ】",
+    "actressName": "（AV女優：望月乃々）",
+    "birthday": "2003-06-12",
+    "shop": "BLENDA VIP東京店 ",
+    "area": "渋谷：デリヘル／高級",
+    "img": "https://img2.cityheaven.net/img/girls/tt/blendatokyo/grpb0061116162_0000000000pc.jpg?cache02=1754086721&imgopt=y",
+    "url": "https://www.cityheaven.net/tokyo/A1303/A130301/blendatokyo/girlid-61116162/",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "0円",
+      "p60": "38500円",
+      "p75": "47300円",
+      "p90": "58300円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1303/A130301/blendatokyo/girlid-61116162/" },
+        { "name": "アブゾック", "url": "https://avzoku.com/mochizukinono/" }
+      ],
+      "sns": [
+        { "name": "노노짱 叶リナ", "url": "https://x.com/mochino1207" },
+        { "name": "Bella🌹", "url": "https://x.com/BLENDA_Bella_" },
+        { "name": "ルカP🍈ハイパービッグメロン", "url": "https://x.com/b2t_mj" },
+        { "name": "✨RUKA所長🐄(今夜のおかず製作所)", "url": "https://x.com/hh_nk_88" },
+        { "name": "ハイパービッグメロンちゃん", "url": "https://x.com/paina227" },
+        { "name": "Bella🌹", "url": "https://x.com/BLENDA_Bella_" }
+      ],
+      "movie": [
+        { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?actress=1094982" }
+      ]
+    }
+  },
+
+
   "--- E_SECTION ---": "--------------------------------",
 
 
@@ -298,6 +336,28 @@
   "--- J_SECTION ---": "--------------------------------",
 
 
+  "junna": {
+    "name": "純菜／じゅんな",
+    "age": 31,
+    "shop": "オトナめE+",
+    "area": "錦糸町：デリヘル／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/tt/otoname-eplus/grpb0042126034_0000000000pc.jpg?cache02=1767503179&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/tokyo/A1313/A131301/otoname-eplus/girlid-42126034/",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "2000円",
+      "p70": "21000円",
+      "p90": "29000円",
+      "p120": "37000円"
+    },
+    "links": {
+      "site": [{ "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1313/A131301/otoname-eplus/girlid-42126034/" }],
+      "sns": [{ "name": "X", "url": "https://x.com/okinawa_aoharu" }],
+      "movie": [{ "name": "ももプリンch", "url": "https://cityheaven-tv.knip.jp/channels/d_melon/channel_posts/607" }]
+    }
+  },
+
   "juri": {
     "name": "JURI",
     "age": 22,
@@ -323,6 +383,62 @@
 
 
   "--- K_SECTION ---": "--------------------------------",
+
+"kanae_rina": {
+    "name": "叶リナ",
+    "actressName": "（AV女優：望月乃々）",
+    "birthday": "2003-06-12",
+    "shop": "ジャルディーノ",
+    "area": "吉原：ソープ／高級",
+    "img": "https://img2.cityheaven.net/img/girls/tt/y-giardino/grpb0056220968_0000000000pc.jpg?cache02=1760269344&imgopt=y",
+    "url": "https://www.cityheaven.net/tokyo/A1311/A131101/y-giardino/girlid-56220968/",
+    "prices": {
+      "special": "?円",
+      "init": "?円",
+      "nom": "?円",
+      "p120": "30000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1311/A131101/y-giardino/girlid-56220968/" },
+        { "name": "アブゾック", "url": "https://avzoku.com/mochizukinono/" }
+      ],
+      "sns": [
+        { "name": "노노짱 叶リナ", "url": "https://x.com/mochino1207" },
+        { "name": "Bella🌹", "url": "https://x.com/BLENDA_Bella_" },
+        { "name": "ルカP🍈ハイパービッグメロン", "url": "https://x.com/b2t_mj" },
+        { "name": "✨RUKA所長🐄(今夜のおかず製作所)", "url": "https://x.com/hh_nk_88" },
+        { "name": "ハイパービッグメロンちゃん", "url": "https://x.com/paina227" },
+        { "name": "Bella🌹", "url": "https://x.com/BLENDA_Bella_" }
+      ],
+      "movie": [
+        { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?actress=1094982" }
+      ]
+    }
+  },
+
+
+  "kagura_run": {
+    "name": "神楽るん",
+    "age": 25,
+    "shop": "ぐっすり山田　池袋店",
+    "area": "池袋北口・西口：エステ・アロマ／出張エステ",
+    "img": "https://img2.cityheaven.net/img/girls/tt/gussuriyamada_i/grpb0061307525_0000000000pc.jpg?cache02=1762263475&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/tokyo/A1305/A130505/gussuriyamada_i/girlid-61307525/",
+    "prices": {
+      "special": "3300円",
+      "init": "2000円",
+      "nom": "2000円",
+      "p90": "19800円",
+      "p120": "23100円",
+      "p150": "29700円"
+    },
+    "links": {
+      "site": [{ "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1305/A130505/gussuriyamada_i/girlid-61307525/" }],
+      "sns": [{ "name": "神楽るん", "url": "https://x.com/uxux857" }],
+      "movie": [{ "name": "ぴゅあらば", "url": "https://purelovers.com/shop/22503/ex-movie/5361/" }]
+    }
+  },
 
 
   "kaho": {
@@ -409,10 +525,33 @@
     "links": {
       "site": [{ "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1305/A130505/finemotion/girlid-57524431/#menus" }],
       "sns": [{ "name": "復活のるるーしゅ", "url": "https://x.com/rurubayashi" }],
-      "movie": [{ "name": "ももプリンch", "url": "https://cityheaven-tv.knip.jp/channels/d_melon/channel_posts/528" }]
+      "movie": [{ "name": "ももプリンch", "url": "https://cityheaven-tv.knip.jp/channels/d_melon/channel_posts/528" },
+      { "name": "ももプリンch_2", "url": "https://www.cityheaven.net/tokyo/girl-list/?girlname_search=%E5%B0%8F%E6%9E%97%E3%82%8B%E3%82%8B" }]
     }
   },
 
+
+  "komugi": {
+    "name": "こむぎ先生",
+    "age": 25,
+    "shop": "美少女制服学園ＣＬＡＳＳ ＭＡＴＥ 五反田校、美少女制服学園クラスメイト錦糸町本校",
+    "area": "五反田・錦糸町：デリヘル／学園系",
+    "img": "https://img2.cityheaven.net/img/girls/tt/k-classmate/grpb0060128089_0000000000pc.jpg?cache02=1769577732&imgopt=y",
+    "url": "https://www.cityheaven.net/tokyo/A1317/A131703/g-classmate/girlid-60128363/",
+    "prices": {
+      "special": "3000円",
+      "init": "2000円",
+      "nom": "3000円",
+      "p60": "18000円",
+      "p90": "24000円",
+      "p120": "34000円"
+    },
+    "links": {
+      "site": [{ "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1317/A131703/g-classmate/girlid-60128363/" }],
+      "sns": [{ "name": "", "url": "" }],
+      "movie": [{ "name": "ぴゅあらば", "url": "https://purelovers.com/shop/21760/ex-movie/5483/" }]
+    }
+  },
 
   "koyuki": {
     "name": "こゆき",
