@@ -76,8 +76,10 @@
     },
     "links": {
       "site": [
-        { "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1303/A130301/blendatokyo/girlid-61116162/" },
-        { "name": "アブゾック", "url": "https://avzoku.com/mochizukinono/" }
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1311/A131101/y-giardino/girlid-56220968/" },
+        { "name": "アブゾック", "url": "https://avzoku.com/mochizukinono/" },
+        { "name": "seesaawiki", "url": "https://seesaawiki.jp/w/fuzokuwiki/d/AV%bd%f7%cd%a5%a4%ce%c9%f7%c2%af%be%ee%a1%a1%cb%be%b7%ee%c7%b5%a1%b9" },
+        { "name": "lit.limk", "url": "https://lit.link/rukap2929" }
       ],
       "sns": [
         { "name": "노노짱 叶リナ", "url": "https://x.com/mochino1207" },
@@ -401,7 +403,9 @@
     "links": {
       "site": [
         { "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1311/A131101/y-giardino/girlid-56220968/" },
-        { "name": "アブゾック", "url": "https://avzoku.com/mochizukinono/" }
+        { "name": "アブゾック", "url": "https://avzoku.com/mochizukinono/" },
+        { "name": "seesaawiki", "url": "https://seesaawiki.jp/w/fuzokuwiki/d/AV%bd%f7%cd%a5%a4%ce%c9%f7%c2%af%be%ee%a1%a1%cb%be%b7%ee%c7%b5%a1%b9" },
+        { "name": "lit.limk", "url": "https://lit.link/rukap2929" }
       ],
       "sns": [
         { "name": "노노짱 叶リナ", "url": "https://x.com/mochino1207" },
@@ -1208,6 +1212,37 @@
       ],
       "movie": [
         { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?key=%E6%B2%99%E5%84%AA%E4%B8%83%E7%BE%BD" }
+      ]
+    }
+  },
+
+
+  "seisyou_nagon": {
+    "name": "清少納言",
+    "actressName": "（AV女優：ローレン花恋）",
+    "birthday": "1999-03-21",
+    "shop": "シャトーペトラ",
+    "area": "吉原：スタンダード／高級",
+    "img": "https://cdn2-caskan.com/caskan/img/cast/1763394686_4622484.jpeg/150x200",
+    "url": "https://www.cityheaven.net/tokyo/A1311/A131101/cp/girlid-64847522",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "0円",
+      "p90": "39000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1311/A131101/cp/girlid-64847522" },
+        { "name": "アブゾック", "url": "https://avzoku.com/loren-karen/" }, 
+        { "name": "seesaawiki", "url": "https://seesaawiki.jp/w/fuzokuwiki/d/AV%bd%f7%cd%a5%a4%ce%c9%f7%c2%af%be%ee%a1%a1%a5%ed%a1%bc%a5%ec%a5%f3%b2%d6%ce%f8" }
+      ],
+      "sns": [
+        { "name": "清少納言", "url": "https://x.com/seisho_nagon123" },
+        { "name": "枕草子", "url": "https://x.com/cintyaporcal" }
+      ],
+      "movie": [
+        { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?actress=1072202" }
       ]
     }
   },

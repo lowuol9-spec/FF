@@ -51,7 +51,7 @@ const getPageData = () => {
   return {
     "北海道_☆☆☆☆": [cast?.yui_ami].filter(Boolean),
     "北海道_☆☆☆": [cast?.kaho, cast?.kaho_2].filter(Boolean),
-    "東京都_☆☆☆☆☆": [cast?.asami, cast?.bella, cast?.furansowa, cast?.hinano_yuna, cast?.koyuki, cast?.minami_shiori, cast?.meari, cast?.rumina, cast?.thuru, cast?.kanae_rina, cast?.yuutuki_kokona, cast?.kobayashi_ruru, cast?.komugi].filter(Boolean), 
+    "東京都_☆☆☆☆☆": [cast?.asami, cast?.bella, cast?.furansowa, cast?.hinano_yuna, cast?.koyuki, cast?.minami_shiori, cast?.meari, cast?.rumina, cast?.thuru, cast?.kanae_rina, cast?.yuutuki_kokona, cast?.kobayashi_ruru, cast?.komugi, cast?.seisyou_nagon].filter(Boolean), 
     "東京都_☆☆☆☆": [cast?.kagura_run, cast?.junna, cast?.rukachi, cast?.rukachi_2, cast?.rukachi_3, cast?.thukino_aina].filter(Boolean),
     "東京都_☆☆☆": [cast?.juri, cast?.momoka_hotaru,cast?.hashimoto_airi].filter(Boolean),
     "東京都_★★★★★": [cast?.amaharu_noa, cast?.hanamo, cast?.sayuu_nanaha, cast?.sayuu_nanaha_2, cast?.sumeragi_yuzu_tokyo, cast?.sumeragi_yuzu_tokyo_2, cast?.sumeragi_yuzu_tokyo_3].filter(Boolean),
