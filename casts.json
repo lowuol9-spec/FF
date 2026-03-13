@@ -126,7 +126,7 @@
     "age": 33,
     "shop": "さくらん 人妻Secret Service",
     "area": "愛知県 安城：デリヘル／人妻",
-    "img": "https://img2.cityheaven.net/img/girls/cb/cansami-makuhari/grpb0052556483_0000000000pc.jpg?cache02=1758797957&imgopt=y/150x200",
+    "img": "https://img2.cityheaven.net/img/girls/t/sakuran_ss/grpb0045051571_0000000000pc.jpg?cache02=1772900254&imgopt=y",
     "url": "https://www.cityheaven.net/aichi/A2305/A230504/sakuran_ss/girlid-45051571/",
     "prices": {
       "special": "2000円",
@@ -280,7 +280,7 @@
     "age": 27,
     "shop": "浜松POISON",
     "area": "静岡県 浜松・磐：ソープ／スタンダード",
-    "img": "https://img2.cityheaven.net/img/girls/cb/newtiara/grpb0057071681_0000000000pc.jpg?cache02=1766641791&imgopt=y/150x200",
+    "img": "https://img2.cityheaven.net/img/girls/tt/gingira/grpb0048654998_0000000000pc.jpg?cache02=1766745963&imgopt=y",
     "url": "https://www.cityheaven.net/shizuoka/A2202/A220201/poison/girlid-51222380/",
     "prices": {
       "special": "0円",
@@ -308,7 +308,7 @@
     "age": 20,
     "shop": "Platinum stage",
     "area": "吉原：ソープ／激安",
-    "img": "https://img2.cityheaven.net/img/girls/tt/shinjuku-deri/grpb0062727784_0000000000pc.jpg?cache02=1768058971&imgopt=y/150x200",
+    "img": "https://img2.cityheaven.net/img/girls/tt/plutinum/grpb0043932125_0000000000pc.jpg?cache02=1767968506&imgopt=y",
     "url": "https://www.cityheaven.net/tokyo/A1311/A131101/plutinum/girlid-43932125/",
     "prices": {
       "special": "3000円",
@@ -610,6 +610,29 @@
 
   "--- M_SECTION ---": "--------------------------------",
 
+
+
+  "mana": {
+    "name": "まな",
+    "age": 21,
+    "shop": "NEW GENERATION",
+    "area": "栃木・宇都宮：デリヘル／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/tt/gingira/grpb0049689399_0000000000pc.jpg?cache02=1766746146&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/tochigi/A0901/A090101/final-attack/girlid-53625823/",
+    "prices": {
+      "special": "1000円",
+      "init": "0円",
+      "nom": "2000円",
+      "p60": "16000円",
+      "p75": "19000円",
+      "p90": "24000円"
+    },
+    "links": {
+      "site": [{ "name": "シティヘブン", "url": "https://www.cityheaven.net/tochigi/A0901/A090101/final-attack/girlid-53625823/" }],
+      "sns": [{ "name": "X", "url": "#" }],
+      "movie": [{ "name": "代官山メロンプラス", "url": "https://www.cityheaven.net/tochigi/A0901/A090101/final-attack/girlid-53625823/" }]
+    }
+  },
 
 
   "meari": {
@@ -1208,6 +1231,35 @@
 
 
 
+  "sakurako": {
+    "name": "さくらこ",
+    "age": 19,
+    "shop": "みつらん鉄道",
+    "area": "京都・河原町・木屋町・先斗町：ヘルス／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/ks/mitsuran-tetsudoh/grpb0044094045_0000000000pc.jpg?cache02=1764880422&imgopt=y",
+    "url": "https://www.cityheaven.net/kyoto/A2601/A260101/mitsuran-tetsudoh/girlid-44094045/",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "0円",
+      "p55": "20500円",
+      "p65": "23500円",
+      "p110": "39500円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/kyoto/A2601/A260101/mitsuran-tetsudoh/girlid-44094045/" }
+      ],
+      "sns": [
+        {}
+      ],
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/524" }
+        ]
+    }
+  },
+
+
   "sayuu_nanaha": {
     "name": "こばと",
     "actressName": "（AV女優：沙優七羽）",
@@ -1559,7 +1611,7 @@
     "birthday": "1990-11-09",
     "shop": "スチームバス・ニューグランド",
     "area": "新宿・歌舞伎町：ソープ／激安",
-    "img": "https://img2.cityheaven.net/img/girls/q/avance/grpb0050021258_0000000000pc.jpg?cache02=1767547842&imgopt=y/150x200",
+    "img": "https://img2.cityheaven.net/img/girls/tt/grand-kado/grpb0062758011_0000000000pc.jpg?cache02=1771025449&imgopt=y",
     "url": "https://www.cityheaven.net/tokyo/A1304/A130401/grand-kado/girlid-62758011/",
     "prices": {
       "special": "0円",
