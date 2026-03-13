@@ -117,7 +117,11 @@
     "links": {
       "site": [{ "name": "シティヘブン", "url": "https://www.cityheaven.net/chiba/A1201/A120101/cansami-makuhari/girlid-52556483/" }],
       "sns": [{ "name": "", "url": "" }],
-      "movie": [{ "name": "ももプリンch", "url": "https://cityheaven-tv.knip.jp/channels/d_melon/channel_posts/420" }]
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/497" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/536" },
+        { "name": "ももプリンch", "url": "https://cityheaven-tv.knip.jp/channels/d_melon/channel_posts/420" }
+        ]
     }
   },
 
@@ -630,7 +634,10 @@
     "links": {
       "site": [{ "name": "シティヘブン", "url": "https://www.cityheaven.net/tochigi/A0901/A090101/final-attack/girlid-53625823/" }],
       "sns": [{ "name": "X", "url": "#" }],
-      "movie": [{ "name": "代官山メロンプラス", "url": "https://www.cityheaven.net/tochigi/A0901/A090101/final-attack/girlid-53625823/" }]
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://www.cityheaven.net/tochigi/A0901/A090101/final-attack/girlid-53625823/" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/536" }
+        ]
     }
   },
 
@@ -969,6 +976,29 @@
   },
 
 
+  "noeru": {
+    "name": "のえる",
+    "age": 25,
+    "shop": "横浜痴女性感フェチ倶楽部",
+    "area": "横浜駅周辺：デリヘル／M性感,手コキ・オナクラ",
+    "img": "https://img2.cityheaven.net/img/girls/y/y-chijo/grpb0051579620_0000000000pc.jpg?cache02=1757228304&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/kanagawa/A1401/A140101/y-chijo/girlid-51579620/",
+    "prices": {
+      "special": "0円",
+      "init": "1100円",
+      "nom": "2200円",
+      "p60": "17600円",
+      "p75": "22000円",
+      "p90": "26400円"
+    },
+    "links": {
+      "site": [{ "name": "シティヘブン", "url": "https://www.cityheaven.net/kanagawa/A1401/A140101/y-chijo/girlid-51579620/" }],
+      "sns": [{ "name": "", "url": "" }],
+      "movie": [{ "name": "風俗DX", "url": "https://fuzokudx.com/kanto/shop/yokfetish/girllist/670195/movie/" }]
+    }
+  },
+
+
   "--- O_SECTION ---": "--------------------------------",
 
 
@@ -1254,7 +1284,8 @@
         {}
       ],
       "movie": [
-        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/524" }
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/524" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/536" }
         ]
     }
   },
