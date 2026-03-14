@@ -959,7 +959,8 @@
     "links": {
       "site": [
         { "name": "シティヘブン", "url": "https://www.cityheaven.net/aichi/A2301/A230103/airabugakuen/girlid-58856714/" },
-        { "name": "アブゾック", "url": "https://avzoku.com/minamishiori/" }
+        { "name": "アブゾック", "url": "https://avzoku.com/minamishiori/" },
+        { "name": "seesaawiki", "url": "https://seesaawiki.jp/w/fuzokuwiki/d/AV%bd%f7%cd%a5%a4%ce%c9%f7%c2%af%be%ee%a1%a1%c8%fe%c7%c8%bc%ae%ce%a4" }
       ],
       "sns": [
         { "name": "", "url": "" }
@@ -1205,10 +1206,74 @@
     }
   },
 
+
+  "rico": {
+    "name": "Rico",
+    "actressName": "（AV女優：如月りいさ）",
+    "birthday": "1999-10-30",
+    "shop": "THE MUSE",
+    "area": "渋谷：デリヘル／高級",
+    "img": "https://img2.cityheaven.net/img/girls/tt/muse2022/grpb0058143787_0000000000pc.jpg?cache02=1773274316&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/tokyo/A1303/A130301/muse2022/girlid-58143787/",
+    "prices": {
+      "special": "5000円",
+      "init": "0円",
+      "nom": "0円",
+      "p60": "30000円",
+      "p90": "50000円",
+      "p120": "70000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1303/A130301/muse2022/girlid-58143787/" },
+        { "name": "アブゾック", "url": "https://avzoku.com/kisaragiriisa/" },
+        { "name": "seesaawiki", "url": "https://seesaawiki.jp/w/fuzokuwiki/d/AV%bd%f7%cd%a5%a4%ce%c9%f7%c2%af%be%ee%a1%a1%c7%a1%b7%ee%a4%ea%a4%a4%a4%b5" }
+      ],
+      "sns": [
+        { "name": "", "url": "" }
+      ],
+      "movie": [
+        { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?actress=1092215" },
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/560" }
+      ]
+    }
+  },
+  "renon": {
+    "name": "Renon",
+    "actressName": "（AV女優：如月りいさ）",
+    "birthday": "1999-10-30",
+    "shop": "PROPORTION",
+    "area": "川崎堀之内南町・川崎駅周辺：ソープ／高級",
+    "img": "https://img2.cityheaven.net/img/girls/y/proportion/grpb0048387082_0000000000pc.jpg?cache02=1772891820&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/kanagawa/A1403/A140301/proportion/girlid-48387082/",
+    "prices": {
+      "special": "?円",
+      "init": "0円",
+      "nom": "0円",
+      "p110": "30000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/kanagawa/A1403/A140301/proportion/girlid-48387082/" },
+        { "name": "アブゾック", "url": "https://avzoku.com/kisaragiriisa/" },
+        { "name": "seesaawiki", "url": "https://seesaawiki.jp/w/fuzokuwiki/d/AV%bd%f7%cd%a5%a4%ce%c9%f7%c2%af%be%ee%a1%a1%c7%a1%b7%ee%a4%ea%a4%a4%a4%b5" }
+      ],
+      "sns": [
+        { "name": "", "url": "" }
+      ],
+      "movie": [
+        { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?actress=1092215" },
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/560" }
+      ]
+    }
+  },
+
+
+
   "riri": {
     "name": "りり",
     "actressName": "（AV女優：夢実かなえ）",
-    "birthday": "2089-08-30",
+    "birthday": "1089-08-30",
     "shop": "ナイトエンジェル",
     "area": "愛知 千種・今池・池下・北口：デリヘル／SM",
     "img": "https://img2.cityheaven.net/img/girls/t/nightangel/grpb0047880581_0000000000pc.jpg?cache02=1761177069&imgopt=y/150x200",
@@ -1234,6 +1299,7 @@
       ]
     }
   },
+
 
   "rukachi": {
     "name": "るかち",
@@ -1687,6 +1753,40 @@
 
 
 
+  "thiho": {
+    "name": "ちほ",
+    "actressName": "（AV女優：桃川ちほ）",
+    "birthday": "1997-03-03",
+    "shop": "THE ESUTE 五反田店",
+    "area": "五反田：エステ・アロマ／出張エステ",
+    "img": "https://img2.cityheaven.net/img/girls/tt/gt_the-esute/grpb0064914767_0000000000pc.jpg?cache02=1773403967&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/tokyo/A1317/A131703/gt_the-esute/girlid-64914767/?mypage_flg=1&lo=1&rqp=07145806",
+    "prices": {
+      "special": "0円",
+      "init": "1000円",
+      "nom": "2000円",
+      "p70": "47000円",
+      "p90": "55000円",
+      "p120": "80000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1317/A131703/gt_the-esute/girlid-64914767/?mypage_flg=1&lo=1&rqp=07145806" }, 
+        { "name": "アブゾック", "url": "https://avzoku.com/momokawachiho/" }
+      ],
+
+      "sns": [
+        { "name": "🌸 咲桜井ちほ Visual🌸", "url": "https://x.com/chiho_sub" }
+      ],
+
+      "movie": [
+        { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?actress=1107261" },
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/560" }
+      ]
+    }
+  },
+
+
   "thukino_aina": {
     "name": "月野あいな",
     "actressName": "（AV女優：桜庭りおな）",
@@ -1735,7 +1835,131 @@
 
       "sns": [{ "name": "", "url": "" }],
 
-      "movie": [ { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?key=%E5%A4%95%E6%9C%88%E3%82%86%E3%82%8B" }]
+      "movie": [ 
+        { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?key=%E5%A4%95%E6%9C%88%E3%82%86%E3%82%8B" }
+        ]
+    }
+  },
+
+
+  "tojo_ibuki": {
+    "name": "伊吹/いぶき",
+    "age": 27,
+    "shop": "贅沢なひと時",
+    "area": "新宿・歌舞伎町：デリヘル／高級",
+    "img": "https://img2.cityheaven.net/img/girls/tt/zeitaku48/grpb0030368566_0000000000pc.jpg?cache02=1758020850&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/tokyo/A1304/A130401/zeitaku48/girlid-30368566/",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "3000円",
+      "p60": "27000円",
+      "p80": "34000円",
+      "p100": "40000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1304/A130401/zeitaku48/girlid-30368566/" },
+        { "name": "lit.limk", "url": "https://lit.link/ibuking1115" }
+        ],
+
+      "sns": [
+        { "name": "東條伊吹サブ🐟🍥🍻", "url": "https://x.com/ibuking_sub" }
+        ],
+
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/560" }
+        ]
+    }
+  },
+  "tojo_ibuki_2": {
+    "name": "いぶき 爆乳オールラウンダー♡",
+    "age": 27,
+    "shop": "Parfaite Luna☆",
+    "area": "埼玉県・川越：デリヘル／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/st/parfaiteluna/grpb0048917363_0000000000pc.jpg?cache02=1771902639&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/saitama/A1103/A110303/parfaiteluna/girlid-48917363/",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "3000円",
+      "p60": "17000円",
+      "p75": "21000円",
+      "p90": "26000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/saitama/A1103/A110303/parfaiteluna/girlid-48917363/" },
+        { "name": "lit.limk", "url": "https://lit.link/ibuking1115" }
+        ],
+
+      "sns": [
+        { "name": "東條伊吹サブ🐟🍥🍻", "url": "https://x.com/ibuking_sub" }
+        ],
+
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/560" }
+        ]
+    }
+  },
+  "tojo_ibuki_3": {
+    "name": "東條伊吹",
+    "age": 27,
+    "shop": "フォルトゥナーFortunaー",
+    "area": "高知市・堺町・はりまや：デリヘル／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/s/fortuna/grpb0046462585_0000000000pc.jpg?cache02=1767180891&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/kochi/A3901/A390101/fortuna/girlid-46462585/",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "1100円",
+      "p60": "17600円",
+      "p75": "20900円",
+      "p90": "25300円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/kochi/A3901/A390101/fortuna/girlid-46462585/" },
+        { "name": "lit.limk", "url": "https://lit.link/ibuking1115" }
+        ],
+
+      "sns": [
+        { "name": "東條伊吹サブ🐟🍥🍻", "url": "https://x.com/ibuking_sub" }
+        ],
+
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/560" }
+        ]
+    }
+  },
+  "tojo_ibuki_4": {
+    "name": "東條伊吹☆フォロワー2.8万人",
+    "age": 28,
+    "shop": "摩天楼～MATENROW～鹿児島",
+    "area": "鹿児島県・天文館周辺：デリヘル／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/km/matenrow_kagoshima/grpb0039926493_0000000000pc.jpg?cache02=1773419525&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/kagoshima/A4601/A460102/matenrow_kagoshima/girlid-39926493/",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "1000円",
+      "p60": "16000円",
+      "p75": "19000円",
+      "p90": "22000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/kagoshima/A4601/A460102/matenrow_kagoshima/girlid-39926493/" },
+        { "name": "lit.limk", "url": "https://lit.link/ibuking1115" }
+        ],
+
+      "sns": [
+        { "name": "東條伊吹サブ🐟🍥🍻", "url": "https://x.com/ibuking_sub" }
+        ],
+
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/560" }
+        ]
     }
   },
 
@@ -1764,7 +1988,10 @@
 
       "sns": [{ "name": "優月心菜", "url": "https://x.com/kibiruu" }, { "name": "優月心菜(桜坂恋)", "url": "https://x.com/coconashiii" }],
 
-      "movie": [ { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?key=%E5%84%AA%E6%9C%88%E5%BF%83%E8%8F%9C" }]
+      "movie": [
+         { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?key=%E5%84%AA%E6%9C%88%E5%BF%83%E8%8F%9C" }, 
+         { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/554" }
+      ]
     }
   },
 

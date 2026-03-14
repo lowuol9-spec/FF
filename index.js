@@ -51,14 +51,17 @@ const getPageData = () => {
   return {
     "北海道_☆☆☆☆": [cast?.yui_ami, cast?.minami].filter(Boolean),
     "北海道_☆☆☆": [cast?.kaho, cast?.kaho_2].filter(Boolean),
-    "東京都_☆☆☆☆☆": [cast?.asami, cast?.bella, cast?.furansowa, cast?.himena, cast?.hinano_yuna, cast?.koyuki, cast?.minami_shiori, cast?.meari, cast?.rumina, cast?.thuru, cast?.kanae_rina, cast?.yuutuki_kokona, cast?.kobayashi_ruru, cast?.komugi, cast?.lora, cast?.seisyou_nagon].filter(Boolean), 
+
+    "東京都_☆☆☆☆☆": [cast?.asami, cast?.bella, cast?.furansowa, cast?.himena, cast?.hinano_yuna, cast?.koyuki, cast?.minami_shiori, cast?.meari, cast?.rumina, cast?.rico, cast?.thuru, cast?.kanae_rina, cast?.yuutuki_kokona, cast?.kobayashi_ruru, cast?.komugi, cast?.lora, cast?.seisyou_nagon, cast?.thiho].filter(Boolean), 
     "東京都_☆☆☆☆": [cast?.kagura_run, cast?.midori, cast?.junna, cast?.rukachi, cast?.rukachi_2, cast?.rukachi_3, cast?.thukino_aina].filter(Boolean),
     "東京都_☆☆☆": [cast?.juri, cast?.momoka_hotaru,cast?.hashimoto_airi].filter(Boolean),
-    "東京都_★★★★★": [cast?.amaharu_noa, cast?.hanamo, cast?.sayuu_nanaha, cast?.sayuu_nanaha_2, cast?.sumeragi_yuzu_tokyo, cast?.sumeragi_yuzu_tokyo_2, cast?.sumeragi_yuzu_tokyo_3].filter(Boolean),
+    "東京都_★★★★★": [cast?.amaharu_noa, cast?.hanamo, cast?.sayuu_nanaha, cast?.sayuu_nanaha_2, cast?.sumeragi_yuzu_tokyo, cast?.sumeragi_yuzu_tokyo_2, cast?.sumeragi_yuzu_tokyo_3, cast?.tojo_ibuki].filter(Boolean),
     "東京都_★★★": [cast?.aoyama_kia].filter(Boolean),
-    "神奈川県_☆☆☆☆☆": [cast?.minami_shiori_2, cast?.noeru].filter(Boolean),
+
+    "神奈川県_☆☆☆☆☆": [cast?.minami_shiori_2, cast?.noeru, cast?.renon].filter(Boolean),
     "千葉県_☆☆☆☆": [cast?.erika].filter(Boolean),
     "茨城県_☆☆☆": [cast?.hashimoto_airi_2].filter(Boolean),
+    "埼玉県_★★★★★": [cast?.tojo_ibuki_2].filter(Boolean),
     "栃木県_☆☆☆☆": [cast?.mana].filter(Boolean),
     "新潟県_☆☆☆☆☆": [cast?.minami_shiori_3, cast?.minami_shiori_4].filter(Boolean),
     "新潟県_☆☆☆☆": [cast?.nagisa, cast?.shimazaki_niina].filter(Boolean),
@@ -73,10 +76,12 @@ const getPageData = () => {
     "京都府_☆☆☆☆☆": [cast?.sakurako].filter(Boolean),
     "京都府_☆☆☆": [cast?.naho].filter(Boolean),
     "岡山県_☆☆☆☆☆": [cast?.minami_shiori_6].filter(Boolean),
+    "高知県_★★★★★": [cast?.tojo_ibuki_3].filter(Boolean),
     "福岡県_☆☆☆☆": [cast?.ramu_fukuoka].filter(Boolean),
     "福岡県_☆☆☆": [cast?.yumi].filter(Boolean),
     "福岡県_★★★★★": [cast?.sumeragi_yuzu_tokyo_5].filter(Boolean),
-    "熊本県_☆☆☆☆": [cast?.oshino_otone].filter(Boolean)
+    "熊本県_☆☆☆☆": [cast?.oshino_otone].filter(Boolean),
+    "鹿児島県_★★★★★": [cast?.tojo_ibuki_4].filter(Boolean)
   };
 };
 
