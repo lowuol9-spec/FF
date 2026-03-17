@@ -1,37 +1,39 @@
 {
 
-  "--- A_SECTION ---": "--------------------------------",
+  "--- あ_SECTION ---": "--------------------------------",
 
 
-  "amaharu_noa": {
-    "name": "天晴乃愛",
-    "actressName": "（AV女優：天晴乃愛）",
-    "birthday": "1998-06-16",
-    "shop": "",
-    "area": "",
-    "img": "https://pics.dmm.co.jp/digital/video/ebod00862/ebod00862ps.jpg/150x200",
-    "url": "",
+  "aika_yura": {
+    "name": "愛加ゆら",
+    "age": 33,
+    "shop": "千葉県No,1デリヘル 秘密倶楽部 凛 船橋本店",
+    "area": "千葉県・船橋：デリヘル／人妻",
+    "img": "https://img2.cityheaven.net/img/girls/cb/h-rin/grpb0052562593_0000000000pc.jpg?cache02=1772325821&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/chiba/A1202/A120201/h-rin/girlid-52562593/#menus",
     "prices": {
-      "special": "0円",
-      "init": "0円",
-      "nom": "0円",
-      "p60": "0円",
-      "p75": "0円",
-      "p90": "0円"
+      "special": "1000円",
+      "init": "1000円",
+      "nom": "2000円",
+      "p70": "17000円",
+      "p100": "24000円",
+      "p130": "31000円"
     },
     "links": {
       "site": [
-        { "name": "シティヘブン", "url": "" },
-        { "name": "アブゾック", "url": "https://avzoku.com/amaharunoa/" }
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/chiba/A1202/A120201/h-rin/girlid-52562593/#menus" }
       ],
       "sns": [
-        { "name": "🧠愛📓", "url": "https://x.com/amaharunoa_note" }
+        { "name": "", "url": "" }
       ],
       "movie": [
-        { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?actress=1072355" }
-      ]
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/586" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/587" },
+        { "name": "代官山メロンプラス_3", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/592" }
+        ]
     }
   },
+
+
   "aoyama_kia": {
     "name": "青〇希愛",
     "actressName": "（AV女優：青山希愛）",
@@ -63,6 +65,7 @@
     }
   },
 
+  
   "asami": {
     "name": "あさみ",
     "age": 26,
@@ -82,6 +85,37 @@
       "site": [{ "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1304/A130401/sinkaigyo/girlid-60594144/?mypage_flg=1" }],
       "sns": [{ "name": "必須アサミ酸", "url": "https://x.com/asamin23788686" }],
       "movie": [{ "name": "", "url": "#" }]
+    }
+  },
+
+
+  "amaharu_noa": {
+    "name": "天晴乃愛",
+    "actressName": "（AV女優：天晴乃愛）",
+    "birthday": "1998-06-16",
+    "shop": "",
+    "area": "",
+    "img": "https://pics.dmm.co.jp/digital/video/ebod00862/ebod00862ps.jpg/150x200",
+    "url": "",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "0円",
+      "p60": "0円",
+      "p75": "0円",
+      "p90": "0円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "" },
+        { "name": "アブゾック", "url": "https://avzoku.com/amaharunoa/" }
+      ],
+      "sns": [
+        { "name": "🧠愛📓", "url": "https://x.com/amaharunoa_note" }
+      ],
+      "movie": [
+        { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?actress=1072355" }
+      ]
     }
   },
 
@@ -248,6 +282,37 @@
       "site": [{ "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1304/A130401/sh-hitodumajo/girlid-41496085/" }],
       "sns": [{ "name": "", "url": "" }],
       "movie": [{ "name": "風俗DX", "url": "https://fuzokudx.com/kanto/shop/shinjukushiro/girllist/740851/movie/" }]
+    }
+  },
+
+
+  "hanabi": {
+    "name": "はなび",
+    "age": 20,
+    "shop": "夢-chu",
+    "area": "宮城県／青葉区・国分町：デリヘル／人妻",
+    "img": "https://img2.cityheaven.net/img/girls/th/muchu/grpb0048940036_0000000000pc.jpg?cache02=1773066030&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/miyagi/A0401/A040101/muchu/girlid-48940036/",
+    "prices": {
+      "special": "3000円",
+      "init": "0円",
+      "nom": "1000円",
+      "p60": "15000円",
+      "p75": "19000円",
+      "p90": "23000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/miyagi/A0401/A040101/muchu/girlid-48940036/" }
+      ],
+      "sns": [
+        { "name": "", "url": "" }
+      ],
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/586" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/587" },
+        { "name": "代官山メロンプラス_3", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/592" }
+        ]
     }
   },
   
@@ -573,6 +638,67 @@
     }
   },
 
+
+  "karen": {
+    "name": "叶蓮【カレン】",
+    "age": 24,
+    "shop": "Evolution1st キタ兎我野店",
+    "area": "大阪府／梅田・北新地：デリヘル／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/k/evolution-1st/grpb0064400553_0000000000pc.jpg?cache02=1771688684&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/osaka/A2701/A270101/evolution-1st/girlid-64400553/",
+    "prices": {
+      "special": "8000円",
+      "init": "0円",
+      "nom": "0円",
+      "p60": "26400円",
+      "p75": "31900円",
+      "p90": "35200円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/osaka/A2701/A270101/evolution-1st/girlid-64400553/" }
+      ],
+      "sns": [
+        { "name": "", "url": "" }
+      ],
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/586" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/587" },
+        { "name": "代官山メロンプラス_3", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/592" }
+        ]
+    }
+  },
+  "karen_2": {
+    "name": "叶蓮【カレン】",
+    "age": 24,
+    "shop": "Evolution1st ミナミ谷九店 ",
+    "area": "大阪府／日本橋：デリヘル／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/k/evolution-1st-minami/grpb0064400540_0000000000pc.jpg?cache02=1771688692&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/osaka/A2702/A270202/evolution-1st-minami/girlid-64400540/",
+    "prices": {
+      "special": "8000円",
+      "init": "0円",
+      "nom": "0円",
+      "p60": "26400円",
+      "p75": "31900円",
+      "p90": "35200円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/osaka/A2702/A270202/evolution-1st-minami/girlid-64400540/" }
+      ],
+      "sns": [
+        { "name": "", "url": "" }
+      ],
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/586" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/587" },
+        { "name": "代官山メロンプラス_3", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/592" }
+        ]
+    }
+  },
+
+
   "kobayashi_ruru": {
     "name": "小林るる",
     "age": 21,
@@ -777,7 +903,7 @@
     "name": "みちる",
     "age": 23,
     "shop": "あいどーる",
-    "area": "静岡浜松・磐田：デリヘル／スタンダード",
+    "area": "静岡県／浜松・磐田：デリヘル／スタンダード",
     "img": "https://img2.cityheaven.net/img/girls/so/i-doll-h/grpb0037634627_0000000000pc.jpg?cache02=1769153700&imgopt=y/150x200",
     "url": "https://www.cityheaven.net/shizuoka/A2202/A220201/i-doll-h/girlid-37634627/?from=missheaven2024_prize",
     "prices": {
@@ -1085,6 +1211,38 @@
   },
 
 
+  "nansei_seira": {
+    "name": "南星　聖来【セイラ】",
+    "age": 25,
+    "shop": "クラブブレンダ難波店",
+    "area": "大阪府・日本橋：デリヘル／高級",
+    "img": "https://img2.cityheaven.net/img/girls/k/blenda/grpb0060924755_0000000000pc.jpg?cache02=1773545081&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/osaka/A2702/A270202/blenda/girlid-60924755/",
+    "prices": {
+      "special": "ASK",
+      "init": "0円",
+      "nom": "0円",
+      "p60": "20900円",
+      "p75": "25300円",
+      "p90": "30800円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/osaka/A2702/A270202/blenda/girlid-60924755/" }
+      ],
+      "sns": [
+        { "name": "南星 聖来【ﾅﾝｾ ｾｲﾗ】", "url": "https://x.com/seiseiseira__" }
+      ],
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/586" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/587" },
+        { "name": "代官山メロンプラス_3", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/592" },
+        { "name": "ももプリンch", "url": "https://cityheaven-tv.knip.jp/channels/d_melon/channel_posts/711" }
+        ]
+    }
+  },
+
+
   "noeru": {
     "name": "のえる",
     "age": 25,
@@ -1116,8 +1274,8 @@
     "name": "推ノおとね",
     "age": 20,
     "shop": "Ribbon 1st",
-    "area": "南熊本・九品寺・花岡山：デリヘル／スタンダード",
-    "img": "https://img2.cityheaven.net/img/girls/t/gold_garden/grpb0043864586_0000000000pc.jpg?cache02=1769389295&imgopt=y/150x200",
+    "area": "熊本県／南熊本・九品寺・花岡山：デリヘル／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/km/ribbon/grpb0051860133_0000000000pc.jpeg?cache02=1773163613&imgopt=y/150x200",
     "url": "https://www.cityheaven.net/kumamoto/A4301/A430102/ribbon/girlid-51860133/",
     "prices": {
       "special": "0円",
@@ -1135,6 +1293,39 @@
         { "name": "推ノおとね🎀(熊本)", "url": "https://x.com/oshino_otone" }
       ],
       "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/586" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/587" },
+        { "name": "代官山メロンプラス_3", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/592" },
+        { "name": "ももプリンch", "url": "https://cityheaven-tv.knip.jp/channels/d_melon/channel_posts/459" }
+        ]
+    }
+  },
+  "oshino_otone_2": {
+    "name": "推ノおとね",
+    "age": 20,
+    "shop": "Babel CLASS",
+    "area": "熊本県／中央街・上通り・下通り：ソープ／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/km/ribbon/grpb0051860133_0000000000pc.jpeg?cache02=1773163613&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/kumamoto/A4301/A430102/ribbon/girlid-51860133/",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "2000円",
+      "p60": "40000円",
+      "p90": "60000円",
+      "p120": "80000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/kumamoto/A4301/A430102/ribbon/girlid-51860133/" }
+      ],
+      "sns": [
+        { "name": "推ノおとね🎀(熊本)", "url": "https://x.com/oshino_otone" }
+      ],
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/586" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/587" },
+        { "name": "代官山メロンプラス_3", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/592" },
         { "name": "ももプリンch", "url": "https://cityheaven-tv.knip.jp/channels/d_melon/channel_posts/459" }
         ]
     }
@@ -1269,6 +1460,37 @@
   },
 
 
+  "rito": {
+    "name": "りと",
+    "age": 20,
+    "shop": "巨乳専門E－BODY（イーボディ）名古屋錦店～E＋Group～",
+    "area": "愛知県／錦・栄・矢場町：ヘルス／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/t/e-body_n/grpb0046538275_0000000000pc.jpg?cache02=1765567644&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/aichi/A2301/A230103/e-body_n/girlid-46538275/",
+    "prices": {
+      "special": "4000円",
+      "init": "0円",
+      "nom": "1000円",
+      "p60": "19000円",
+      "p75": "23000円",
+      "p90": "27000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/aichi/A2301/A230103/e-body_n/girlid-46538275/" }
+      ],
+      "sns": [
+        { "name": "りと", "url": "https://x.com/ebody_rito" }
+      ],
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/586" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/587" },
+        { "name": "代官山メロンプラス_3", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/592" }
+        ]
+    }
+  },
+
+
 
   "riri": {
     "name": "りり",
@@ -1297,6 +1519,37 @@
       "movie": [
         { "name": "FANZA", "url": "https://video.dmm.co.jp/av/list/?key=%E5%A4%A2%E5%AE%9F%E3%81%8B%E3%81%AA%E3%81%88" }
       ]
+    }
+  },
+
+
+  "rurutan": {
+    "name": "るるたん",
+    "age": 26,
+    "shop": "Delice(デリス)新宿店",
+    "area": "新宿・歌舞伎町：デリヘル／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/tt/deli-shinjuku-k/grpb0032490799_0000000000pc.jpg?cache02=1773537191&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/tokyo/A1304/A130401/deli-shinjuku-k/girlid-32490799/",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "0円",
+      "p50": "101000円",
+      "p60": "120000円",
+      "p90": "180000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1304/A130401/deli-shinjuku-k/girlid-32490799/" }
+      ],
+      "sns": [
+        { "name": "りと", "url": "https://x.com/ebody_rito" }
+      ],
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/586" },
+        { "name": "代官山メロンプラス_2", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/587" },
+        { "name": "代官山メロンプラス_3", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/592" }
+        ]
     }
   },
 
@@ -1964,8 +2217,71 @@
   },
 
 
+  "--- V_SECTION ---": "--------------------------------",
+
+"vivian": {
+    "name": "ヴィヴィアン",
+    "age": 26,
+    "shop": "変態なんでも鑑定団",
+    "area": "鶯谷：デリヘル／M性感",
+    "img": "https://img2.cityheaven.net/img/girls/tt/kanteidan2/grpb0028313048_0000000000pc.jpg?cache02=1760604779&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/tokyo/A1312/A131205/kanteidan2/girlid-28313048/",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "2000円",
+      "p60": "16000円",
+      "p80": "21000円",
+      "p100": "26000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/tokyo/A1312/A131205/kanteidan2/girlid-28313048/" }
+        ],
+
+      "sns": [
+        { "name": "ViViAN(ヴィヴィアン)", "url": "https://x.com/ViViAN_hentai" }
+        ],
+
+      "movie": [
+        { "name": "", "url": "" }
+        ]
+    }
+  },
+
+
   "--- Y_SECTION ---": "--------------------------------",
 
+
+  "you": {
+    "name": "☆よう★･.｡*",
+    "age": 19,
+    "shop": "@群馬☆若娘特急便027キューティ★EXPRESS",
+    "area": "群馬県・高崎・前橋・伊勢崎・本庄・藤岡：デリヘル／スタンダード",
+    "img": "https://img2.cityheaven.net/img/girls/st/cutyexpress/grpb0047094375_0000000000pc.jpg?cache02=1771980965&imgopt=y/150x200",
+    "url": "https://www.cityheaven.net/gunma/A1001/A100102/cutyexpress/girlid-47094375/",
+    "prices": {
+      "special": "0円",
+      "init": "0円",
+      "nom": "2000円",
+      "p60": "19000円",
+      "p70": "20000円",
+      "p80": "21000円"
+    },
+    "links": {
+      "site": [
+        { "name": "シティヘブン", "url": "https://www.cityheaven.net/gunma/A1001/A100102/cutyexpress/girlid-47094375/" }
+        ],
+
+      "sns": [
+        { "name": "", "url": "" }
+        ],
+
+      "movie": [
+        { "name": "代官山メロンプラス", "url": "https://cityheaven-tv.knip.jp/channels/d_melonplus/channel_posts/567" }
+        ]
+    }
+  },
 
 
   "yuutuki_kokona": {
